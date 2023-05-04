@@ -1,7 +1,7 @@
 import csv
 
 class Database:
-    def __init__(self,nadideparcalar.):
+    def __init__(self, filmİsmi, imdbPuani, filmYil, filmTür, filmSüre, filmFragman):
         self.nadideparcalar = nadideparcalar
         
     def bilgi_kaydet(self, bilgi):
